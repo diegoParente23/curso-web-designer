@@ -1,0 +1,18 @@
+body {
+    background-color: #333;
+    background-image: url("./img//bikcraft-esporte.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 5000px;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background: #ccc url("./img/bikcraft-retro.jpg") no-repeat center;
+    background-size: cover;
+    box-shadow: 10px 10px #000;
+}
