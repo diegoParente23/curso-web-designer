@@ -162,6 +162,6 @@
     margin: 8px 0 8px 0;
 }
 
-.dados-email {
+.orcamento-dados span:nth-of-type(even) {
     margin-bottom: 40px;
 }
